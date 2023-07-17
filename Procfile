@@ -1,1 +1,2 @@
-web: sh setup.sh && streamlit run --server.port $PORT importcv2.py
+web: streamlit run --server.port $PORT importcv2.py
+
