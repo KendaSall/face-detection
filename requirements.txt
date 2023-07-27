@@ -1,3 +1,4 @@
 streamlit
 opencv-python
 numpy
+apt-get -y install libgl1-mesa-glx
